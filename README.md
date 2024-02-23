@@ -14,7 +14,7 @@ To run this project locally, you'll need the following installed on your machine
 - [.NET Core SDK](https://dotnet.microsoft.com/download)
 - [Git](https://git-scm.com/)
 
-Once you have the prerequisites installed, you can clone the repository to your local machine using the following command: git clone https://github.com/MahdiNoorzadeh/web-scraper.git
+Once you have the prerequisites installed, you can clone the repository to your local machine using the following command: git clone [https://github.com/MahdiNoorzadeh/web-scraper.git](https://github.com/MahdiNoorzadeh/Weather-Web-Scraper.git)
 
 ## Usage
 1. Open the solution file `Web Scraper.sln` in Visual Studio or your preferred IDE.
